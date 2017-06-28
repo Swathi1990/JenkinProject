@@ -1,6 +1,8 @@
 <html>
-<body background="C:\Users\admin\Pictures\apache.jpg">
+<head>
 <title>My first page</title>
+</head>
+<body background="C:\Users\admin\Pictures\apache.jpg">
 <p>Nature was derived from the Latin word Natura, which actually means birth.
 
 This was actually a Greek translation from the word physis which actually relates to intrinsic characteristics like animals, plants and the other features of the world that have developed on its own accord.
